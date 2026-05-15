@@ -1,0 +1,35 @@
+Best Model: Logistic Regression
+
+                          precision    recall  f1-score   support
+
+            cancel_order       1.00      0.99      1.00       200
+            change_order       0.98      0.98      0.98       199
+ change_shipping_address       0.99      1.00      1.00       195
+  check_cancellation_fee       1.00      1.00      1.00       190
+           check_invoice       0.98      1.00      0.99       200
+   check_payment_methods       1.00      1.00      1.00       200
+     check_refund_policy       1.00      0.99      1.00       199
+               complaint       1.00      1.00      1.00       200
+contact_customer_service       1.00      0.99      0.99       200
+     contact_human_agent       0.99      0.99      0.99       200
+          create_account       0.99      0.99      0.99       199
+          delete_account       0.99      1.00      0.99       199
+        delivery_options       1.00      1.00      1.00       199
+         delivery_period       1.00      1.00      1.00       200
+            edit_account       0.98      1.00      0.99       200
+             get_invoice       1.00      0.98      0.99       200
+              get_refund       0.99      1.00      1.00       199
+ newsletter_subscription       1.00      1.00      1.00       200
+           payment_issue       1.00      0.99      1.00       200
+             place_order       0.99      0.99      0.99       200
+        recover_password       1.00      1.00      1.00       199
+   registration_problems       0.99      0.99      0.99       200
+                  review       1.00      1.00      1.00       199
+ set_up_shipping_address       1.00      1.00      1.00       199
+          switch_account       1.00      0.99      1.00       200
+             track_order       1.00      0.98      0.99       199
+            track_refund       1.00      1.00      1.00       200
+
+                accuracy                           1.00      5375
+               macro avg       1.00      1.00      1.00      5375
+            weighted avg       1.00      1.00      1.00      5375
